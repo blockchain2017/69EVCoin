@@ -5,7 +5,7 @@
 <div align="center">
   <h1>
 </div>
-Goldinvest Token is your gateway to a new era of investment possibilities in the dynamic market of precious metals, currencies and cryptocurrencies! via Secure and transparent BNB Smart Chain
+Use 69EV token for shopping EV marketplace and payment gateway for chaarger car station on the aisan country
 
 # Earning platform
 
