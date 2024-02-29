@@ -1,6 +1,6 @@
 # 69EVCoin, The Token For EVCar charger station
 
-<div align="center"><img src="https://69evcrypto.com/main1/wp-content/uploads/2024/02/logo123.fw_-1.png" /><br />
+<div align="center"><img src="https://69evcrypto.com/main1/wp-content/uploads/2024/02/cropped-logo100.fw_.png" /><br />
 </div>
 <div align="center">
   <h1>
