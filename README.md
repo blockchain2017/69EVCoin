@@ -1,6 +1,6 @@
 # 69EVCoin, The Token For EV Car charger station
 
-<div align="center"><img src="https://goldinvests.io/wp-content/uploads/2024/02/logo414x414.fw_.png)" /><br />
+<div align="center"><img src="https://69evcrypto.com/main1/wp-content/uploads/2024/02/logo123.fw_-1.png" /><br />
 </div>
 <div align="center">
   <h1>
