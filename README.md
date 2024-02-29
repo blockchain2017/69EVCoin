@@ -6,37 +6,22 @@
   <h1>
 </div>
 Use 69EV token for shopping EV marketplace and payment gateway for chaarger car station on the aisan country
+69EVCoin, Rrevolutionary of clean energy system. use token for EV car charging station in ASEAN countries. token as payment gateway for EV car charging control through the application, use EV69 token for shop all product on marketplace platform.
 
-# Earning platform
+# Marketplace
+We serve a marketplace platform that combines EV car charger product directly from the manufacturer ready to install. Members can buy on the platform accept payments through 69EVCoin
 
-
-Earning platform
-Gold invest web3 Staking platform. Passive income generation technology running through the binance blockchain. Start earning with us in just 3 easy steps.
-
-1. Buy token on pancakeswap. Buy BNB coin transfer to your wallet. Connect wallet and enter BNB amout and comfirm your wallet
-
-2. Select package & Stake. Go to stake platform. connect wallet first, select plan your interest, Approve & comfirm wallet a stake.
-
-3. Enjoy regular profits. You rewards are generated minute until the due stake Now it’s time to enjoy your life and finally let your money work for you every day.
-
-# Gold Debit Card
-Reward from Gold invest Staking can be chosen withdraw via a Visa Debit card that can be used at ATMs around the world or spent via cards
-supported by the Visa company.
-
-– Low transaction fee. Easy withdrawal process through our platform. high sucure system. and can be used immediately.
-
-– Visa partner. Earnings are automatically transferred to the wallet. Members can convert and withdraw money from the metamask wallet to crypto partner Visa cards such as Transak.
+# Payment Gateway
+69EVCoin payment gateway. We built tokens on binance smart chain as a highly secure blockchain payment gateway. It offers low fees and supports leading exchanges. can also be used to pay for goods discount all transactions. marketing section is expanding as a payment gateway on coinpayment.net our growing partnerships in the future.
 
 # Link us
 
-🌐 Smart Contract : https://bscscan.com/address/0x977d3c595f9c9b5a3a5b05845499dc05ea713026
+🌐 Smart Contract : https://bscscan.com/address/0xFD843444a25Fa5d40dCE9e1CF6f803EACc47030B
 
-📊 But token : https://pancakeswap.finance/swap?outputCurrency=0x977d3c595f9c9b5A3A5b05845499Dc05EA713026
+📊 But token : https://pancakeswap.finance/swap?outputCurrency=0xFD843444a25Fa5d40dCE9e1CF6f803EACc47030B
 
-🔰 Staking : https://goldinvests.io/staking
+🟩 Twitter : https://twitter.com/69EVcoin
 
-🟩 Twitter : https://twitter.com/official46512
+🚮 Facebook : https://www.facebook.com/69greenenergy
 
-🚮 Facebook : https://www.facebook.com/goldinvestofficial
-
-🟢 Telegram : https://t.me/Goldinvestofficial
+🟢 Telegram : https://t.me/Ev69crypto
