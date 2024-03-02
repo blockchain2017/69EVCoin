@@ -1,4 +1,4 @@
-# 69EVCoin, The Token For EVCar Charger Station
+# 69EVCoin, The Token For Marketplace & EVCar Charger Station
 
 <div align="center"><img src="https://69evcrypto.com/main1/wp-content/uploads/2024/02/logo300x300.fw_.png" /><br />
 </div>
