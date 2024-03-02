@@ -18,10 +18,12 @@ We serve a marketplace platform that combines EV car charger product directly fr
 
 🌐 Smart Contract : https://bscscan.com/address/0xFD843444a25Fa5d40dCE9e1CF6f803EACc47030B
 
-📊 But token : https://pancakeswap.finance/swap?outputCurrency=0xFD843444a25Fa5d40dCE9e1CF6f803EACc47030B
+📊 Buy token : https://pancakeswap.finance/swap?outputCurrency=0xFD843444a25Fa5d40dCE9e1CF6f803EACc47030B
 
 🟩 Twitter : https://twitter.com/69EVcoin
 
 🚮 Facebook : https://www.facebook.com/69greenenergy
 
 🟢 Telegram : https://t.me/Ev69crypto
+
+🧑‍🤝‍🧑 Tiktok : https://www.tiktok.com/@evstation8?_t=8k7HoyEUq7G&_r=1
