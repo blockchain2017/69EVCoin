@@ -13,9 +13,6 @@ We serve a marketplace platform that combines EV car charger product directly fr
 # Payment Gateway
 69EVCoin payment gateway. We built tokens on binance smart chain as a highly secure blockchain payment gateway. It offers low fees and supports leading exchanges. can also be used to pay for goods discount all transactions. marketing section is expanding as a payment gateway on coinpayment.net our growing partnerships in the future.
 
-# Payment Gateway
-We has created a 69EVCoin trading platform that connects to the application system for quick trading. Safe and easy to use
-
 # Link us
 
 🌐 Smart Contract : https://bscscan.com/address/0xFD843444a25Fa5d40dCE9e1CF6f803EACc47030B
